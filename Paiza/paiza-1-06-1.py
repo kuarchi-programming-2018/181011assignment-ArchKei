@@ -18,6 +18,7 @@ print("サイコロの目は**です。")
 # coding: utf-8
 
 #数の表示とサイコロ
+
 import random
 
 number = random.randint(1,6)
